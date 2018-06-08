@@ -11,4 +11,4 @@
 ### Usage
 - clone repository
 - php bin/magento setup:upgrade
-- run php bin/magento mateusz:
+- run php bin/magento mateusz:move_product xxx (id)
